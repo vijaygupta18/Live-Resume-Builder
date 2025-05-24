@@ -30,6 +30,7 @@ A modern, single-page web application that allows users to create professional r
 - A4/Letter paper dimensions
 - Printer-ready output
 - Maintains LaTeX-style formatting in PDF
+- Adjustable render scale for balancing quality and file size
 
 ### ⚡ **Dynamic Content Management**
 - Add/remove multiple education entries
@@ -127,6 +128,8 @@ You can use basic HTML tags within the input fields for formatting:
 resume-builder/
 │
 ├── index.html          # Main application file
+├── style.css           # CSS styles
+├── script.js           # JavaScript functions
 └── README.md           # Documentation
 ```
 
